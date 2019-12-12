@@ -13,7 +13,7 @@ repository = "https://github.com/briansmith/ring"
 version = "0.16.9"
 
 # Prevent multiple versions of *ring* from being linked into the same program.
-links = "ring-asm"
+# links = "ring-asm"
 
 exclude = [
     # The presence of .gitignore is used to differentiate non-packaged builds
